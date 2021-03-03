@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  width: 900PX;
+  
+  
+}
+
+h1{
+  font-style: italic;
+  color: brown;
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  margin-right: 8px;
+
+}
